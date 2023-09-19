@@ -1,0 +1,272 @@
+﻿OrderID,Order Date,ShipDate,DiffernceInDays,Segment,City,State,Region,Product ID,Feedback,Sales Target,CommuteDistance,FirstName,LastName,Sales,Profit,qty
+E-Con-1385202,2/22/2018,4/10/2018,2,Consumer,"New York
+City",New York,North East,310,H,8.5904,2-5 Miles,Dennis,Li,8.26,3.7996,2
+C-Hom-117415,12/27/2017,12/29/2017,2,Home Office,Houston               ,Texas,Central,311,,121.26096,0-1 Miles,Darren,Alvarez,113.328,35.415,12
+S-Cor-127208,6/12/2018,6/13/2018,1,Corporate,Decatur,Alabama,South,312,,220.6496,2-5 Miles,Natasha,Sanz,208.16,56.2032,6
+E-Cor-165603,10/17/2019,10/23/2019,6,Corporate,Warwick,Rhode Island,East,313,L,49.96,2-5 Miles,Autumn,Zhu,49.96,9.4924,8
+E-Cor-122756,12/3/2017,12/7/2017,4,Corporate,Philadelphia,Pennsylvania,East,314,,3.0192,2-5 Miles,George,Louverdis,2.96,0.777,2
+W-Con-109638,12/15/2017,12/21/2017,6,Consumer,Seattle,Washington,West,315,,110.1552,0-1 Miles,Dwayne,Martin,103.92,36.372,7
+E-Hom-102281,10/12/2017,10/18/2017,6,Home Office,New York City,New York,East,316,,21.492,0-1 Miles,Edwin,Zhao,19.9,6.567,10
+E-Con-166674,4/1/2018,4/5/2018,4,Consumer,Auburn,New York,East,317,,32.6136,0-1 Miles,Joel,Raman,30.48,7.9248,13
+C-Cor-118038,12/9/2019,12/16/2019,7,Corporate,Houston,Texas,Central,288,H,10.6788,2-5 Miles,Dennis,Li,9.708,-5.8248,6
+E-Hom-161018,11/9/2019,11/16/2019,7,Home Office,New York City,New York,East,289,H,100.3912,0-1 Miles,Darren,Alvarez,96.53,40.5426,5
+E-Con-141544,8/30/2018,9/4/2018,5,Consumer,Philadelphia,Pennsylvania,East,290,H,308.35188,2-5 Miles,Natasha,Sanz,290.898,-67.8762,6
+E-Con-163139,12/1/2019,12/3/2019,2,Consumer,New York City,New York,East,291,L,17.6952,2-5 Miles,Autumn,Zhu,17.52,6.132,15
+C-Con-152366,4/21/2019,4/23/2019,2,Consumer,Houston,Texas,Central,292,H,106.01776,2-5 Miles,George,Louverdis,97.264,-243.16,11
+S-Cor-112697,12/18/2018,12/19/2018,1,Corporate,Tamarac,Florida,South,293,L,208.14496,0-1 Miles,Dwayne,Martin,194.528,24.316,13
+W-Con-109638,12/15/2017,12/18/2017,3,Consumer,Seattle,Washington,West,294,L,52.33824,2-5 Miles,Edwin,Zhao,51.312,18.6006,12
+E-Hom-129714,9/1/2018,9/6/2018,5,Home Office,New York City,New York,East,295,L,3.048,2-5 Miles,Joel,Raman,3.048,1.0668,2
+E-Con-150630,9/17/2017,9/20/2017,3,Consumer,Philadelphia,Pennsylvania,East,296,L,6.92658,2-5 Miles,Autumn,Zhu,6.858,-5.715,11
+W-Con-135545,11/24/2017,11/29/2017,5,Consumer,Los Angeles,California,West,297,L,27.37344,2-5 Miles,George,Louverdis,25.824,9.3612,2
+C-Cor-137330,12/9/2018,12/11/2018,2,Corporate,Fremont,Nebraska,Central,298,H,63.357,2-5 Miles,Dwayne,Martin,60.34,15.6884,7
+C-Hom-122259,10/31/2017,11/6/2017,6,Home Office,Jackson,Michigan,Central,299,L,73.626,1-2 Miles,Edwin,Zhao,70.12,21.036,12
+E-Con-101511,11/21/2017,11/27/2017,6,Consumer,Newark,Ohio,East,300,L,17.3092,2-5 Miles,Joel,Raman,15.88,-3.7715,12
+E-Con-138520,4/8/2018,4/12/2018,4,Consumer,New York City,New York,East,301,H,36.12,2-5 Miles,Joel,Raman,34.4,15.824,1
+W-Con-118962,8/5/2016,8/7/2016,2,Consumer,Los Angeles,California,West,302,L,20.94,0-1 Miles,Dennis,Li,20.94,9.8418,7
+C-Hom-131926,6/1/2016,6/3/2016,2,Home Office,Lakeville,Minnesota,Central,303,L,47.88,2-5 Miles,Darren,Alvarez,47.88,23.94,10
+E-Cor-132976,10/13/2019,10/16/2019,3,Corporate,Philadelphia,Pennsylvania,East,304,H,18.53952,2-5 Miles,Natasha,Sanz,18.176,5.9072,4
+W-Cor-163979,12/28/2019,1/1/2020,4,Corporate,San Francisco,California,West,305,L,725.84,2-5 Miles,Autumn,Zhu,725.84,210.4936,15
+W-Con-130162,10/28/2018,10/30/2018,2,Consumer,Los Angeles,California,West,306,L,308.42352,2-5 Miles,George,Louverdis,302.376,22.6782,11
+S-Cor-139619,9/19/2019,9/22/2019,3,Corporate,Melbourne,Florida,South,307,L,105.1776,2-5 Miles,Dwayne,Martin,95.616,9.5616,6
+E-Cor-105816,12/11/2018,12/16/2018,5,Corporate,New York City,New York,East,308,L,15.7178,0-1 Miles,Edwin,Zhao,15.26,6.2566,6
+C-Con-135860,12/1/2019,12/7/2019,6,Consumer,Saginaw,Michigan,Central,309,L,54.3816,2-5 Miles,Joel,Raman,52.29,16.2099,4
+E-Hom-110772,11/20/2018,11/21/2018,1,Home Office,Columbus,Ohio,East,210,H,20.43272,2-5 Miles,Autumn,Zhu,19.096,6.6836,5
+C-Con-130792,4/28/2017,5/3/2017,5,Consumer,Houston,Texas,Central,211,L,25.73856,2-5 Miles,George,Louverdis,23.832,2.6811,4
+W-Hom-140963,6/10/2019,6/14/2019,4,Home Office,Los Angeles,California,West,238,H,31.968,2-5 Miles,Dwayne,Martin,29.6,14.8,10
+C-Con-115756,9/5/2018,9/10/2018,5,Consumer,Detroit,Michigan,Central,239,L,13.1976,1-2 Miles,Edwin,Zhao,12.22,3.666,3
+W-Cor-110478,3/4/2019,3/10/2019,6,Corporate,Los Angeles,California,West,240,H,9.786,2-5 Miles,Alexandria,Butler,9.32,2.7028,15
+W-Cor-118136,9/16/2019,9/19/2019,3,Corporate,Inglewood,California,West,241,L,9.0846,2-5 Miles,Jaclyn,Gao,8.82,4.0572,8
+E-Con-101798,12/11/2019,12/17/2019,6,Consumer,New York City,New York,East,242,H,24.0608,0-1 Miles,Reginald,Navarro,23.36,7.884,15
+E-Cor-164147,2/2/2019,2/5/2019,3,Corporate,Columbus,Ohio,East,243,H,65.3673,2-5 Miles,Alexandria,Butler,59.97,-11.994,12
+W-Con-169901,6/15/2019,6/18/2019,3,Consumer,San Francisco,California,West,244,L,51.81408,0-1 Miles,Jaclyn,Gao,47.976,4.7976,5
+C-Cor-114489,12/5/2018,12/8/2018,3,Corporate,Franklin,Wisconsin,Central,245,H,152.9694,2-5 Miles,Reginald,Navarro,149.97,5.9988,2
+C-Con-154627,10/29/2016,11/1/2016,3,Consumer,Chicago,Illinois,Central,246,H,2872.7496,1-2 Miles,Joe,Blanco,2735.952,341.994,3
+E-Con-111682,6/17/2018,6/20/2018,3,Consumer,Troy,New York,East,247,L,14.56,0-1 Miles,Meredith,Rodriguez,14.56,6.9888,13
+E-Con-103730,6/12/2018,6/16/2018,4,Consumer,Wilmington,Delaware,East,248,L,47.9808,2-5 Miles,Manuel,Subram,47.04,18.3456,13
+S-Cor-167850,8/9/2016,8/12/2016,3,Corporate,Saint Petersburg,Florida,South,249,H,189.08704,2-5 Miles,Melinda,Serrano,178.384,22.298,15
+E-Con-150147,4/25/2018,4/26/2018,1,Consumer,Philadelphia,Pennsylvania,East,250,H,90.252,2-5 Miles,Joel,Raman,82.8,-20.7,5
+E-Cor-105816,12/11/2018,12/15/2018,4,Corporate,New York City,New York,East,310,H,1091.747,2-5 Miles,Alexandria,Butler,1029.95,298.6855,6
+S-Hom-158274,11/19/2016,11/26/2016,7,Home Office,Monroe,Louisiana,South,311,L,503.96,2-5 Miles,Jaclyn,Gao,503.96,131.0296,10
+C-Hom-117415,12/27/2017,12/28/2017,1,Home Office,Houston,Texas,Central,312,L,585.63912,2-5 Miles,Reginald,Navarro,532.3992,-46.9764,3
+E-Hom-102281,10/12/2017,10/18/2017,6,Home Office,New York City,New York,East,313,H,638.87904,2-5 Miles,Joe,Blanco,626.352,46.9764,11
+E-Cor-155516,10/21/2018,10/24/2018,3,Corporate,Manchester,Connecticut,East,314,H,1085.6768,2-5 Miles,Meredith,Rodriguez,1043.92,271.4192,12
+E-Hom-102281,10/12/2017,10/16/2017,4,Home Office,New York City,New York,East,315,L,980.05824,2-5 Miles,Heidi,Sanchez,899.136,112.392,5
+C-Con-114104,11/20/2018,11/27/2018,7,Consumer,Edmond,Oklahoma,Central,316,L,963.8286,2-5 Miles,Pedro,Sai,944.93,236.2325,4
+C-Con-115742,4/18/2017,4/21/2017,3,Consumer,New Albany,Indiana,Central,317,L,77.4354,2-5 Miles,Shaun,She,75.18,35.3346,9
+E-Cor-132976,10/13/2019,10/16/2019,3,Corporate,Philadelphia,Pennsylvania,East,288,L,26.8272,0-1 Miles,Marie,Suarez,24.84,8.694,5
+E-Cor-146262,1/2/2017,1/3/2017,1,Corporate,Medina,Ohio,East,289,L,25.8112,2-5 Miles,Heidi,Sanchez,23.68,8.88,12
+W-Cor-142902,9/12/2018,9/15/2018,3,Corporate,Arvada,Colorado,West,290,L,6.32664,2-5 Miles,Pedro,Sai,6.264,2.0358,8
+C-Cor-100853,9/14/2016,9/20/2016,6,Corporate,Chicago,Illinois,Central,291,H,21.3696,2-5 Miles,Shaun,She,20.16,6.552,12
+C-Con-155558,10/26/2019,10/27/2019,1,Consumer,Rochester,Minnesota,Central,292,L,6.4064,2-5 Miles,Marie,Suarez,6.16,2.9568,3
+E-Hom-110772,11/20/2018,11/21/2018,1,Home Office,Columbus,Ohio,East,293,L,19.23584,2-5 Miles,Derrick,Torres,18.496,6.2424,12
+C-Con-114104,11/20/2018,11/25/2018,5,Consumer,Edmond,Oklahoma,Central,294,H,15.351,2-5 Miles,Angel,Cooper,14.62,6.8714,14
+C-Con-115756,9/5/2018,9/12/2018,7,Consumer,Detroit,Michigan,Central,295,H,23.5935,0-1 Miles,Amanda,Hughes,22.05,10.584,12
+S-Cor-155698,3/8/2019,3/11/2019,3,Corporate,Columbus,Georgia,South,296,L,20.7,0-1 Miles,Dwayne,Martin,20.7,9.936,3
+E-Con-144904,9/25/2019,10/1/2019,6,Consumer,New York City,New York,East,297,H,22.149,1-2 Miles,Edwin,Zhao,20.7,9.936,15
+E-Con-106075,9/18/2018,9/19/2018,1,Consumer,New York City,New York,East,298,H,4.89296,0-1 Miles,Joel,Raman,4.616,1.731,12
+C-Con-128867,11/3/2018,11/8/2018,5,Consumer,Urbandale,Iowa,Central,299,H,29.4192,2-5 Miles,Heidi,Sanchez,27.24,13.3476,15
+W-Con-107272,11/5/2019,11/10/2019,5,Consumer,Phoenix,Arizona,West,300,H,2.5074,0-1 Miles,Pedro,Sai,2.388,-1.8308,14
+C-Con-135860,12/1/2019,12/5/2019,4,Consumer,Saginaw,Michigan,Central,301,H,16.5568,2-5 Miles,Shaun,She,15.92,7.4824,15
+S-Cor-127208,6/12/2018,6/18/2018,6,Corporate,Decatur,Alabama,South,302,H,17.4096,2-5 Miles,Marie,Suarez,16.74,8.0352,5
+C-Hom-158568,8/29/2018,9/2/2018,4,Home Office,Chicago,Illinois,Central,303,H,1.89528,2-5 Miles,Derrick,Torres,1.788,-3.0396,14
+S-Cor-155208,4/16/2016,4/20/2016,4,Corporate,Wilmington,North Carolina,South,304,H,40.63488,2-5 Miles,Angel,Cooper,39.072,9.768,3
+W-Con-137946,9/1/2017,9/6/2017,5,Consumer,Los Angeles,California,West,305,H,15.37376,2-5 Miles,Amanda,Hughes,14.368,4.49,12
+C-Hom-158568,8/29/2018,8/30/2018,1,Home Office,Chicago,Illinois,Central,306,H,65.27024,2-5 Miles,Pedro,Sai,64.624,22.6184,7
+E-Con-105018,11/28/2018,12/2/2018,4,Consumer,Fairfield,Connecticut,East,307,H,7.16,1-2 Miles,Shaun,She,7.16,3.4368,7
+E-Cor-142545,10/28/2018,10/29/2018,1,Corporate,Belleville,New Jersey,East,308,L,14.4228,2-5 Miles,Marie,Suarez,14.28,6.5688,13
+E-Con-150630,9/17/2017,9/19/2017,2,Consumer,Philadelphia,Pennsylvania,East,309,H,9.81036,0-1 Miles,Heidi,Sanchez,9.618,-7.0532,2
+W-Con-156867,11/13/2017,11/18/2017,5,Consumer,Aurora,Colorado,West,310,H,38.35728,2-5 Miles,Pedro,Sai,36.882,-25.8174,3
+E-Con-111010,1/22/2018,1/26/2018,4,Consumer,Morristown,New Jersey,East,311,H,8.316,0-1 Miles,Shaun,She,7.56,0.3024,15
+S-Con-120929,3/18/2018,3/24/2018,6,Consumer,Memphis,Tennessee,South,312,L,193.67964,2-5 Miles,Marie,Suarez,189.882,-94.941,4
+C-Cor-159982,11/28/2017,12/4/2017,6,Corporate,Chicago,Illinois,Central,313,L,90.6048,2-5 Miles,Derrick,Torres,82.368,-19.5624,8
+W-Hom-158834,3/13/2018,3/19/2018,6,Home Office,Scottsdale,Arizona,West,314,H,173.712,0-1 Miles,Angel,Cooper,157.92,17.766,4
+S-Cor-155698,3/8/2019,3/14/2019,6,Corporate,Columbus,Georgia,South,315,H,712.624,2-5 Miles,Amanda,Hughes,647.84,168.4384,11
+W-Con-115812,6/9/2016,6/12/2016,3,Consumer,Los Angeles,California,West,316,H,114.9,2-5 Miles,Dwayne,Martin,114.9,34.47,8
+E-Con-166674,4/1/2018,4/8/2018,7,Consumer,Auburn,New York,East,317,H,35.4712,2-5 Miles,Edwin,Zhao,35.12,9.1312,1
+S-Con-150574,12/19/2016,12/20/2016,1,Consumer,Jacksonville,Florida,South,288,L,262.668,2-5 Miles,George,Louverdis,247.8,-18.585,1
+C-Cor-163055,8/9/2017,8/12/2017,3,Corporate,Detroit,Michigan,Central,289,L,628.6745,2-5 Miles,Dwayne,Martin,622.45,136.939,9
+C-Con-134614,9/20/2016,9/21/2016,1,Consumer,Bloomington,Illinois,Central,290,L,636.231,0-1 Miles,Edwin,Zhao,617.7,-407.682,10
+W-Con-130890,11/2/2017,11/6/2017,4,Consumer,Los Angeles,California,West,291,L,1080.3936,2-5 Miles,Joel,Raman,1038.84,51.942,5
+W-Con-117457,12/8/2019,12/15/2019,7,Consumer,San Francisco,California,West,292,L,1044.18496,2-5 Miles,Heidi,Sanchez,1004.024,-112.9527,4
+W-Con-148796,4/14/2018,4/15/2018,1,Consumer,Los Angeles,California,West,293,H,387.638,0-1 Miles,Pedro,Sai,383.8,38.38,7
+C-Con-139892,9/8/2016,9/14/2016,6,Consumer,San Antonio,Texas,Central,294,L,10.4328,0-1 Miles,Shaun,She,9.936,2.7324,14
+E-Con-134306,7/8/2019,7/12/2019,4,Consumer,Lowell,Massachusetts,East,295,H,12.96,2-5 Miles,Marie,Suarez,12.96,4.1472,1
+E-Con-140004,3/21/2016,3/24/2016,3,Consumer,Hamilton,Ohio,East,296,H,7.92656,2-5 Miles,Derrick,Torres,7.408,1.2038,14
+C-Con-157749,6/4/2018,6/7/2018,3,Consumer,Chicago,Illinois,Central,297,L,7.408,2-5 Miles,Angel,Cooper,7.408,1.2038,6
+E-Con-140004,3/21/2016,3/25/2016,4,Consumer,Hamilton,Ohio,East,298,L,6.10848,0-1 Miles,Amanda,Hughes,6.048,1.5876,2
+E-Con-134306,7/8/2019,7/14/2019,6,Consumer,Lowell,Massachusetts,East,299,H,7.6356,2-5 Miles,George,Louverdis,7.56,3.0996,1
+C-Con-161991,9/26/2017,9/27/2017,1,Consumer,Houston,Texas,Central,300,L,1181.264,0-1 Miles,Dwayne,Martin,1114.4,376.11,1
+E-Con-166674,4/1/2018,4/4/2018,3,Consumer,Auburn,New York,East,301,L,287.6292,2-5 Miles,Edwin,Zhao,263.88,71.2476,3
+C-Hom-133753,6/9/2016,6/13/2016,4,Home Office,Huntsville,Texas,Central,302,H,70.368,0-1 Miles,Joel,Raman,70.368,6.1572,7
+E-Hom-111003,6/1/2016,6/4/2016,3,Home Office,Lakewood,New Jersey,East,303,H,303.66,0-1 Miles,Heidi,Sanchez,289.2,83.868,3
+E-Con-150630,9/17/2017,9/20/2017,3,Consumer,Philadelphia,Pennsylvania,East,304,L,91.48224,0-1 Miles,Pedro,Sai,86.304,9.7092,10
+E-Cor-164259,12/28/2016,1/2/2017,5,Corporate,Philadelphia,Pennsylvania,East,305,H,109.0496,0-1 Miles,Shaun,She,99.136,8.6744,7
+W-Con-133690,8/3/2016,8/6/2016,3,Consumer,Denver,Colorado,West,306,H,231.875,1-2 Miles,Marie,Suarez,218.75,-161.875,7
+C-Con-152380,11/19/2019,11/26/2019,7,Consumer,Chicago,Illinois,Central,307,L,219.075,0-1 Miles,Derrick,Torres,219.075,-131.445,4
+W-Con-133690,8/3/2016,8/7/2016,4,Consumer,Denver,Colorado,West,308,L,2.782,1-2 Miles,Angel,Cooper,2.6,0.2925,15
+S-Con-108966,10/11/2017,10/17/2017,6,Consumer,Fort Lauderdale,Florida,South,309,H,995.8806,0-1 Miles,Amanda,Hughes,957.5775,-383.031,7
+W-Con-106320,9/25/2017,9/27/2017,2,Consumer,Orem,Utah,West,210,H,1075.9689,0-1 Miles,Pedro,Sai,1044.63,240.2649,15
+S-Hom-100930,4/7/2019,4/10/2019,3,Home Office,Tampa,Florida,South,211,L,626.820645,0-1 Miles,Shaun,She,620.6145,-248.2458,3
+W-Con-122105,6/24/2019,6/29/2019,5,Consumer,Huntington Beach,California,West,238,L,103.5936,0-1 Miles,Marie,Suarez,95.92,25.8984,8
+W-Hom-109869,4/22/2018,4/23/2018,1,Home Office,Phoenix,Arizona,West,239,H,1323.5352,0-1 Miles,Heidi,Sanchez,1272.63,-814.4832,7
+S-Hom-100930,4/7/2019,4/10/2019,3,Home Office,Tampa,Florida,South,240,H,247.8916,0-1 Miles,Pedro,Sai,233.86,-102.048,3
+C-Cor-154907,3/31/2019,4/2/2019,2,Corporate,Amarillo,Texas,Central,241,L,207.386128,0-1 Miles,Shaun,She,205.3328,-36.2352,8
+S-Con-152156,11/8/2018,11/9/2018,1,Consumer,Henderson,Kentucky,South,242,L,285.5364,0-1 Miles,Marie,Suarez,261.96,41.9136,4
+E-Hom-110772,11/20/2018,11/27/2018,7,Home Office,Columbus,Ohio,East,243,L,87.8397,0-1 Miles,Derrick,Torres,86.97,-48.7032,1
+C-Hom-147375,6/12/2018,6/13/2018,1,Home Office,Chicago,Illinois,Central,244,H,1108.7769,0-1 Miles,Angel,Cooper,1007.979,43.1991,14
+E-Hom-164973,11/4/2016,11/11/2016,7,Home Office,New York City,New York,East,245,L,4111.7394,1-2 Miles,Amanda,Hughes,3991.98,1995.99,15
+W-Con-135972,9/21/2016,9/26/2016,5,Consumer,Des Moines,Washington,West,246,H,1925.9679,0-1 Miles,Dwayne,Martin,1799.97,701.9883,7
+C-Con-100419,12/16/2018,12/17/2018,1,Consumer,Chicago,Illinois,Central,247,L,4.88376,0-1 Miles,Edwin,Zhao,4.788,-7.9002,14
+W-Con-115812,6/9/2016,6/11/2016,2,Consumer,Los Angeles,California,West,248,H,1842.67872,0-1 Miles,Dwayne,Martin,1706.184,85.3092,3
+E-Cor-147277,10/20/2019,10/24/2019,4,Corporate,Akron,Ohio,East,249,L,304.26948,5-10 Miles,Edwin,Zhao,284.364,-75.8304,5
+E-Cor-146262,1/2/2017,1/3/2017,1,Corporate,Medina,Ohio,East,250,L,1188,5-10 Miles,Joel,Raman,1188,-950.4,7
+C-Con-125318,6/6/2018,6/10/2018,4,Consumer,Chicago,Illinois,Central,251,L,331.50624,1-2 Miles,Heidi,Sanchez,328.224,28.7196,3
+W-Con-143336,8/27/2016,9/1/2016,5,Consumer,San Francisco,California,West,252,H,217.7496,5-10 Miles,Pedro,Sai,213.48,16.011,10
+W-Cor-103891,7/12/2018,7/14/2018,2,Corporate,Los Angeles,California,West,253,L,96.7176,5-10 Miles,Shaun,She,95.76,7.182,10
+W-Con-126158,7/25/2018,7/30/2018,5,Consumer,Costa Mesa,California,West,254,H,130.38144,5-10 Miles,Marie,Suarez,119.616,40.3704,14
+W-Cor-142902,9/12/2018,9/16/2018,4,Corporate,Arvada,Colorado,West,255,L,15.59008,1-2 Miles,Derrick,Torres,15.136,3.5948,14
+C-Con-115742,4/18/2017,4/23/2017,5,Consumer,New Albany,Indiana,Central,256,L,40.131,5-10 Miles,Angel,Cooper,38.22,17.9634,7
+E-Con-113362,9/14/2016,9/15/2016,1,Consumer,Rochester,New York,East,257,L,12.177,1-2 Miles,Amanda,Hughes,11.07,5.0922,6
+C-Cor-149160,11/23/2019,11/24/2019,1,Corporate,Canton,Michigan,Central,258,L,30.388,5-10 Miles,Autumn,Zhu,28.4,11.076,8
+E-Con-103730,6/12/2018,6/15/2018,3,Consumer,Wilmington,Delaware,East,259,H,244.6848,1-2 Miles,George,Louverdis,226.56,63.4368,4
+C-Con-108987,9/8/2018,9/11/2018,3,Consumer,Houston,Texas,Central,260,L,144.2496,1-2 Miles,Dwayne,Martin,131.136,-32.784,1
+W-Cor-106180,9/18/2019,9/19/2019,1,Corporate,San Francisco,California,West,261,H,11.8374,5-10 Miles,Edwin,Zhao,10.86,5.1042,15
+E-Cor-125388,10/19/2019,10/26/2019,7,Corporate,Lawrence,Massachusetts,East,310,H,32.7,1-2 Miles,Heidi,Sanchez,32.7,8.502,2
+E-Con-115973,11/24/2016,11/25/2016,1,Consumer,Cincinnati,Ohio,East,311,L,2.67648,5-10 Miles,Pedro,Sai,2.624,0.4264,5
+E-Hom-107720,11/6/2019,11/13/2019,7,Home Office,Westfield,New Jersey,East,312,H,48.573,1-2 Miles,Shaun,She,46.26,12.0276,8
+W-Con-144666,11/9/2016,11/15/2016,6,Consumer,San Francisco,California,West,313,H,98.9964,5-10 Miles,Marie,Suarez,92.52,24.9804,13
+W-Con-156867,11/13/2017,11/18/2017,5,Consumer,Aurora,Colorado,West,314,L,109.5252,5-10 Miles,Derrick,Torres,102.36,-3.8385,2
+W-Con-126158,7/25/2018,8/1/2018,7,Consumer,Costa Mesa,California,West,315,L,69.3,1-2 Miles,Angel,Cooper,69.3,22.869,11
+E-Cor-120887,9/27/2016,10/1/2016,4,Corporate,Hackensack,New Jersey,East,316,H,96.294,5-10 Miles,Amanda,Hughes,87.54,37.6422,10
+E-Cor-147277,10/20/2019,10/25/2019,5,Corporate,Akron,Ohio,East,317,L,725.29472,5-10 Miles,Dwayne,Martin,665.408,66.5408,13
+C-Cor-152275,10/1/2019,10/5/2019,4,Corporate,San Antonio,Texas,Central,288,H,7.13904,5-10 Miles,Edwin,Zhao,6.672,0.5004,14
+E-Con-138520,4/8/2018,4/9/2018,1,Consumer,New York City,New York,East,289,L,18.2328,5-10 Miles,Heidi,Sanchez,17.04,6.9864,1
+E-Hom-164973,11/4/2016,11/7/2016,3,Home Office,New York City,New York,East,290,L,144.03492,1-2 Miles,Pedro,Sai,135.882,24.1568,1
+W-Con-126158,7/25/2018,7/27/2018,2,Consumer,Costa Mesa,California,West,291,H,260.89344,1-2 Miles,Shaun,She,241.568,18.1176,5
+W-Con-115812,6/9/2016,6/10/2016,1,Consumer,Los Angeles,California,West,292,H,19.98432,5-10 Miles,Marie,Suarez,18.504,5.7825,5
+E-Con-103730,6/12/2018,6/14/2018,2,Consumer,Wilmington,Delaware,East,293,L,32.382,1-2 Miles,Derrick,Torres,30.84,13.878,2
+C-Hom-107727,10/19/2019,10/20/2019,1,Home Office,Houston,Texas,Central,294,L,30.65088,1-2 Miles,Angel,Cooper,29.472,9.9468,15
+W-Con-130883,9/26/2017,10/2/2017,6,Consumer,Portland,Oregon,West,295,H,154.5184,5-10 Miles,Amanda,Hughes,141.76,47.844,2
+E-Con-134306,7/8/2019,7/9/2019,1,Consumer,Lowell,Massachusetts,East,296,L,26.7704,5-10 Miles,George,Louverdis,24.56,11.5432,1
+E-Cor-154144,12/20/2017,12/23/2017,3,Corporate,Lindenhurst,New York,East,297,H,56.5896,5-10 Miles,Dwayne,Martin,55.48,26.6304,5
+C-Cor-118038,12/9/2019,12/16/2019,7,Corporate,Houston,Texas,Central,298,L,1.27296,10+ Miles,Edwin,Zhao,1.248,-1.9344,6
+C-Con-157749,6/4/2018,6/11/2018,7,Consumer,Chicago,Illinois,Central,299,H,4.20576,5-10 Miles,Joel,Raman,4.044,-2.8308,9
+C-Cor-159982,11/28/2017,12/5/2017,7,Corporate,Chicago,Illinois,Central,300,H,12.61728,10+ Miles,Heidi,Sanchez,12.132,-8.4924,4
+S-Cor-126382,6/3/2019,6/6/2019,3,Corporate,Franklin,Tennessee,South,301,H,35.51968,10+ Miles,Pedro,Sai,35.168,9.6712,8
+W-Cor-101343,7/17/2018,7/19/2018,2,Corporate,Los Angeles,California,West,302,H,83.3316,5-10 Miles,Shaun,She,77.88,3.894,13
+W-Hom-125969,11/6/2018,11/9/2018,3,Home Office,Los Angeles,California,West,303,H,257.6448,10+ Miles,Marie,Suarez,238.56,26.2416,11
+W-Cor-111451,12/26/2016,12/29/2016,3,Corporate,Colorado Springs,Colorado,West,304,L,229.2696,5-10 Miles,Heidi,Sanchez,218.352,-24.5646,13
+C-Hom-101399,1/17/2017,1/22/2017,5,Home Office,Park Ridge,Illinois,Central,305,L,259.83888,10+ Miles,Pedro,Sai,254.744,-312.0614,8
+C-Con-147606,11/26/2016,12/1/2016,5,Consumer,Houston,Texas,Central,306,L,19.493,10+ Miles,Shaun,She,19.3,-14.475,2
+W-Cor-142902,9/12/2018,9/17/2018,5,Corporate,Arvada,Colorado,West,307,L,16.14592,10+ Miles,Marie,Suarez,15.232,1.7136,12
+W-Con-115812,6/9/2016,6/12/2016,3,Consumer,Los Angeles,California,West,308,H,53.746,10+ Miles,Derrick,Torres,48.86,14.1694,4
+S-Con-108966,10/11/2017,10/16/2017,5,Consumer,Fort Lauderdale,Florida,South,309,L,23.93376,10+ Miles,Angel,Cooper,22.368,2.5164,13
+C-Con-115756,9/5/2018,9/12/2018,7,Consumer,Detroit,Michigan,Central,210,H,74.4975,10+ Miles,Amanda,Hughes,70.95,20.5755,15
+C-Hom-159695,4/5/2018,4/11/2018,6,Home Office,Houston,Texas,Central,211,L,174.2048,5-10 Miles,George,Louverdis,158.368,13.8572,3
+E-Cor-132976,10/13/2019,10/14/2019,1,Corporate,Philadelphia,Pennsylvania,East,238,L,64.48896,10+ Miles,Dwayne,Martin,59.712,5.9712,7
+E-Con-144904,9/25/2019,9/30/2019,5,Consumer,New York City,New York,East,239,L,50.8896,10+ Miles,Edwin,Zhao,47.12,20.7328,3
+W-Hom-109869,4/22/2018,4/29/2018,7,Home Office,Phoenix,Arizona,West,240,L,24.2668,5-10 Miles,Heidi,Sanchez,23.56,7.068,10
+E-Cor-144253,5/4/2017,5/11/2017,7,Corporate,New York City,New York,East,241,H,29.48,2-5 Miles,Pedro,Sai,26.8,12.864,15
+E-Con-152632,10/27/2018,10/28/2018,1,Consumer,Troy,New York,East,242,H,41.808,10+ Miles,Shaun,She,40.2,19.296,1
+C-Cor-117590,12/8/2018,12/12/2018,4,Corporate,Richardson,Texas,Central,243,H,194.7384,0-1 Miles,Marie,Suarez,190.92,-147.963,14
+E-Hom-101476,9/12/2016,9/19/2016,7,Home Office,New Rochelle,New York,East,244,H,74.1894,2-5 Miles,Derrick,Torres,69.99,30.0957,11
+C-Cor-155299,6/8/2019,6/14/2019,6,Corporate,Pasadena,Texas,Central,245,H,1.68896,1-2 Miles,Heidi,Sanchez,1.624,-4.466,8
+C-Con-116701,12/17/2019,12/19/2019,2,Consumer,Dallas,Texas,Central,246,L,69.5982,0-1 Miles,Pedro,Sai,66.284,-178.9668,14
+E-Con-169397,12/24/2017,12/27/2017,3,Consumer,Dublin,Ohio,East,247,L,79.9744,0-1 Miles,Shaun,She,72.704,19.0848,2
+S-Con-126774,4/15/2019,4/19/2019,4,Consumer,Arlington,Virginia,South,248,L,5.1834,2-5 Miles,Marie,Suarez,4.89,2.0049,10
+E-Con-166674,4/1/2018,4/6/2018,5,Consumer,Auburn,New York,East,249,L,176.5146,2-5 Miles,Derrick,Torres,161.94,9.7164,10
+C-Con-115756,9/5/2018,9/8/2018,3,Consumer,Detroit,Michigan,Central,250,L,210.5352,1-2 Miles,Angel,Cooper,194.94,23.3928,5
+C-Cor-149223,9/6/2018,9/13/2018,7,Corporate,Saint Paul,Minnesota,Central,251,H,84.8892,2-5 Miles,Amanda,Hughes,77.88,22.5852,4
+E-Con-113362,9/14/2016,9/19/2016,5,Consumer,Rochester,New York,East,252,H,476.099,1-2 Miles,Dwayne,Martin,449.15,8.983,2
+W-Con-161389,12/5/2018,12/11/2018,6,Consumer,Seattle,Washington,West,253,H,424.29504,1-2 Miles,Edwin,Zhao,407.976,132.5922,9
+E-Cor-122336,4/13/2016,4/18/2016,5,Corporate,Philadelphia,Pennsylvania,East,254,L,520.1694,2-5 Miles,Joel,Raman,509.97,-407.976,14
+E-Con-146941,12/10/2018,12/12/2018,2,Consumer,New York City,New York,East,255,L,87.0264,0-1 Miles,Gerald,Alonso,80.58,22.5624,10
+W-Hom-109869,4/22/2018,4/28/2018,6,Home Office,Phoenix,Arizona,West,256,H,79.05472,2-5 Miles,Kaitlin,Gonzalez,78.272,5.8704,12
+E-Cor-100790,6/26/2018,6/28/2018,2,Corporate,New York City,New York,East,257,H,746.505,2-5 Miles,Crystal,Zheng,704.25,84.51,7
+W-Con-167164,5/13/2016,5/17/2016,4,Consumer,West Jordan,Utah,West,258,L,59.94,2-5 Miles,Kenneth,Andersen,55.5,9.99,2
+C-Con-120712,12/20/2017,12/23/2017,3,Consumer,Austin,Texas,Central,259,L,91.464,0-1 Miles,William,Thompson,88.8,-2.22,2
+C-Con-104745,5/29/2019,6/1/2019,3,Consumer,Harlingen,Texas,Central,260,H,53.424,2-5 Miles,Elijah,Jai,53.424,4.6746,14
+E-Con-141544,8/30/2018,9/2/2018,3,Consumer,Philadelphia,Pennsylvania,East,261,H,54.76624,2-5 Miles,Aidan,Washington,54.224,3.389,7
+W-Con-145583,10/13/2018,10/18/2018,5,Consumer,Roseville,California,West,262,H,67.8564,0-1 Miles,Andy,Carlson,65.88,18.4464,15
+W-Hom-109484,11/6/2019,11/11/2019,5,Home Office,Portland,Oregon,West,263,H,6.2502,2-5 Miles,Johnathan,Fernandez,5.682,-3.788,3
+E-Cor-142545,10/28/2018,10/29/2018,1,Corporate,Belleville,New Jersey,East,264,L,79.928,0-1 Miles,Joel,Raman,77.6,38.024,13
+E-Hom-111003,6/1/2016,6/2/2016,1,Home Office,Lakewood,New Jersey,East,265,L,50.028,2-5 Miles,Gerald,Alonso,45.48,20.9208,13
+S-Cor-136476,4/5/2017,4/7/2017,2,Corporate,Bristol,Tennessee,South,266,H,167.26164,2-5 Miles,Kaitlin,Gonzalez,157.794,-115.7156,5
+E-Hom-129714,9/1/2018,9/4/2018,3,Home Office,New York City,New York,East,267,L,4355.168,2-5 Miles,Crystal,Zheng,4355.168,1415.4296,14
+S-Cor-156216,9/13/2016,9/18/2016,5,Corporate,Charlotte,North Carolina,South,268,L,19.20744,0-1 Miles,Kenneth,Andersen,18.648,-12.432,15
+S-Hom-100930,4/7/2019,4/11/2019,4,Home Office,Tampa,Florida,South,269,H,5.5944,2-5 Miles,William,Thompson,5.328,-3.552,1
+E-Con-141544,8/30/2018,9/1/2018,2,Consumer,Philadelphia,Pennsylvania,East,270,L,40.78512,2-5 Miles,Marie,Suarez,37.764,-27.6936,2
+C-Cor-114489,12/5/2018,12/8/2018,3,Corporate,Franklin,Wisconsin,Central,271,L,171.55,0-1 Miles,Derrick,Torres,171.55,80.6285,9
+S-Hom-123750,4/15/2018,4/19/2018,4,Home Office,Gastonia,North Carolina,South,272,H,202.85916,0-1 Miles,Angel,Cooper,189.588,-145.3508,9
+C-Con-130792,4/28/2017,5/4/2017,6,Consumer,Houston,Texas,Central,273,H,13.15008,2-5 Miles,Amanda,Hughes,12.176,-18.8728,9
+S-Cor-112697,12/18/2018,12/20/2018,2,Corporate,Tamarac,Florida,South,274,L,264.22032,0-1 Miles,George,Louverdis,254.058,-169.372,11
+C-Cor-149160,11/23/2019,11/27/2019,4,Corporate,Canton,Michigan,Central,275,L,305.1952,2-5 Miles,Dwayne,Martin,287.92,138.2016,13
+W-Con-145583,10/13/2018,10/14/2018,1,Consumer,Roseville,California,West,250,H,83.03184,2-5 Miles,Edwin,Zhao,76.176,26.6616,6
+C-Cor-117590,12/8/2018,12/10/2018,2,Corporate,Richardson,Texas,Central,251,H,1207.2984,2-5 Miles,Heidi,Sanchez,1097.544,123.4737,15
+C-Con-154214,3/20/2019,3/21/2019,1,Consumer,Columbus,Indiana,Central,252,L,3.1428,0-1 Miles,Pedro,Sai,2.91,1.3677,7
+C-Hom-152030,12/26/2016,12/31/2016,5,Home Office,Houston,Texas,Central,253,H,660.6138,2-5 Miles,Shaun,She,600.558,-8.5794,7
+W-Con-104269,3/1/2016,3/2/2016,1,Consumer,Seattle,Washington,West,254,L,475.87072,2-5 Miles,Marie,Suarez,457.568,51.4764,14
+C-Hom-131926,6/1/2016,6/6/2016,5,Home Office,Lakeville,Minnesota,Central,255,L,2121.9716,2-5 Miles,Derrick,Torres,2001.86,580.5394,8
+W-Cor-111451,12/26/2016,12/29/2016,3,Corporate,Colorado Springs,Colorado,West,256,H,251.08368,0-1 Miles,Heidi,Sanchez,230.352,20.1558,14
+W-Cor-142636,11/3/2019,11/4/2019,1,Corporate,Seattle,Washington,West,257,H,316.35008,2-5 Miles,Pedro,Sai,307.136,26.8744,15
+E-Con-156909,7/16/2019,7/21/2019,5,Consumer,Philadelphia,Pennsylvania,East,258,H,77.08176,0-1 Miles,Shaun,She,71.372,-1.0196,12
+E-Cor-157252,1/20/2019,1/22/2019,2,Corporate,New York City,New York,East,259,H,228.6306,2-5 Miles,Marie,Suarez,207.846,2.3094,8
+E-Con-144904,9/25/2019,10/1/2019,6,Consumer,New York City,New York,East,260,H,513.0783,2-5 Miles,Derrick,Torres,488.646,86.8704,8
+C-Hom-117415,12/27/2017,12/28/2017,1,Home Office,Houston,Texas,Central,261,L,229.02264,2-5 Miles,Angel,Cooper,212.058,-15.147,9
+W-Con-110674,2/12/2016,2/16/2016,4,Consumer,Concord,California,West,262,H,130.86368,0-1 Miles,Marie,Suarez,129.568,-24.294,10
+W-Con-154739,12/10/2018,12/15/2018,5,Consumer,San Francisco,California,West,263,L,334.43072,0-1 Miles,Derrick,Torres,321.568,28.1372,14
+C-Con-115742,4/18/2017,4/24/2017,6,Consumer,New Albany,Indiana,Central,264,L,95.3894,2-5 Miles,Angel,Cooper,89.99,17.0981,11
+S-Con-145436,2/28/2017,3/2/2017,2,Consumer,Columbia,Tennessee,South,265,L,169.6464,2-5 Miles,Amanda,Hughes,161.568,-28.2744,12
+S-Con-145436,2/28/2017,3/2/2017,2,Consumer,Columbia,Tennessee,South,266,H,428.6656,2-5 Miles,George,Louverdis,389.696,43.8408,14
+W-Hom-125969,11/6/2018,11/12/2018,6,Home Office,Los Angeles,California,West,267,L,82.23824,2-5 Miles,Dwayne,Martin,81.424,-9.1602,5
+C-Hom-164175,4/30/2017,5/6/2017,6,Home Office,Chicago,Illinois,Central,268,L,221.6396,1-2 Miles,Edwin,Zhao,213.115,-15.2225,13
+W-Con-118962,8/5/2016,8/11/2016,6,Consumer,Los Angeles,California,West,269,L,374.1584,2-5 Miles,Heidi,Sanchez,340.144,21.259,2
+E-Con-103730,6/12/2018,6/17/2018,5,Consumer,Wilmington,Delaware,East,270,L,118.4706,2-5 Miles,Pedro,Sai,115.02,51.759,7
+C-Con-135860,12/1/2019,12/7/2019,6,Consumer,Saginaw,Michigan,Central,271,H,92.9099,2-5 Miles,Marie,Suarez,91.99,3.6796,2
+C-Con-146703,10/20/2016,10/23/2016,3,Consumer,Westland,Michigan,Central,272,H,211.96,0-1 Miles,Derrick,Torres,211.96,8.4784,7
+W-Con-123344,9/24/2016,10/1/2016,7,Consumer,San Francisco,California,West,273,H,226.7972,2-5 Miles,Angel,Cooper,211.96,8.4784,5
+W-Con-137946,9/1/2017,9/6/2017,5,Consumer,Los Angeles,California,West,274,H,1027.18288,0-1 Miles,Amanda,Hughes,959.984,335.9944,6
+S-Con-134026,4/26/2017,5/1/2017,5,Consumer,Memphis,Tennessee,South,275,L,865.21344,2-5 Miles,George,Louverdis,831.936,-114.3912,6
+C-Con-130792,4/28/2017,4/30/2017,2,Consumer,Houston,Texas,Central,276,H,9.25764,2-5 Miles,Dwayne,Martin,8.652,-20.3322,11
+C-Hom-118983,11/22/2017,11/29/2017,7,Home Office,Fort Worth,Texas,Central,277,H,72.2505,0-1 Miles,Edwin,Zhao,68.81,-123.858,5
+E-Con-111682,6/17/2018,6/18/2018,1,Consumer,Troy,New York,East,278,L,227.3304,0-1 Miles,Heidi,Sanchez,208.56,52.14,3
+E-Con-141544,8/30/2018,9/3/2018,4,Consumer,Philadelphia,Pennsylvania,East,279,L,810.34632,1-2 Miles,Pedro,Sai,786.744,-258.5016,3
+W-Cor-142902,9/12/2018,9/15/2018,3,Corporate,Arvada,Colorado,West,280,H,513.4448,0-1 Miles,Shaun,She,466.768,52.5114,14
+C-Con-157945,9/26/2018,9/29/2018,3,Consumer,Decatur,Illinois,Central,281,H,807.36264,0-1 Miles,Marie,Suarez,747.558,-96.1146,7
+W-Cor-129924,7/12/2016,7/15/2016,3,Corporate,San Francisco,California,West,282,L,747.23664,0-1 Miles,Derrick,Torres,698.352,-17.4588,8
+S-Con-152156,11/8/2018,11/9/2018,1,Consumer,Henderson,Kentucky,South,283,L,797.8146,2-5 Miles,Heidi,Sanchez,731.94,219.582,11
+C-Cor-114489,12/5/2018,12/10/2018,5,Corporate,Franklin,Wisconsin,Central,284,H,1971.3584,2-5 Miles,Pedro,Sai,1951.84,585.552,7
+S-Con-155705,8/21/2019,8/28/2019,7,Consumer,Jackson,Mississippi,South,285,L,883.728,2-5 Miles,Shaun,She,866.4,225.264,13
+S-Con-168935,11/27/2017,12/4/2017,7,Consumer,Pembroke Pines,Florida,South,286,L,386.721225,2-5 Miles,Marie,Suarez,375.4575,-157.0095,12
+W-Con-110457,3/2/2017,3/6/2017,4,Consumer,Seattle,Washington,West,287,L,834.7818,0-1 Miles,Derrick,Torres,787.53,165.3813,12
+C-Hom-131926,6/1/2016,6/2/2016,1,Home Office,Lakeville,Minnesota,Central,223,H,1563.38,2-5 Miles,Angel,Cooper,1503.25,496.0725,4
+W-Cor-111451,12/26/2016,12/28/2016,2,Corporate,Colorado Springs,Colorado,West,224,L,300.416,2-5 Miles,Crystal,Zheng,300.416,78.8592,13
+E-Con-150630,9/17/2017,9/24/2017,7,Consumer,Philadelphia,Pennsylvania,East,225,H,130.41,0-1 Miles,Marie,Suarez,124.2,15.525,8
+E-Cor-110366,9/5/2018,9/11/2018,6,Corporate,Philadelphia,Pennsylvania,East,226,L,86.112,1-2 Miles,Marie,Suarez,82.8,10.35,12
+W-Con-126158,7/25/2018,7/26/2018,1,Consumer,Costa Mesa,California,West,227,H,271.1056,2-5 Miles,Derrick,Torres,255.76,81.8432,1
+S-Hom-158274,11/19/2016,11/26/2016,7,Home Office,Monroe,Louisiana,South,228,L,31.9,2-5 Miles,Angel,Cooper,29,7.25,1
+W-Cor-106376,12/5/2016,12/6/2016,1,Corporate,Gilbert,Arizona,West,229,H,1168.6752,0-1 Miles,Amanda,Hughes,1113.024,111.3024,7
+C-Con-128867,11/3/2018,11/6/2018,3,Consumer,Urbandale,Iowa,Central,230,L,83.556,2-5 Miles,George,Louverdis,75.96,22.788,14
+E-Hom-102281,10/12/2017,10/13/2017,1,Home Office,New York City,New York,East,231,H,73.9128,2-5 Miles,Dwayne,Martin,71.76,20.0928,10
+W-Cor-111451,12/26/2016,1/2/2017,7,Corporate,Colorado Springs,Colorado,West,232,H,82.53,2-5 Miles,Edwin,Zhao,78.6,-62.88,5
+W-Cor-162138,4/23/2018,4/26/2018,3,Corporate,Hesperia,California,West,233,L,271.6416,2-5 Miles,Heidi,Sanchez,251.52,81.744,1
+E-Con-150147,4/25/2018,4/27/2018,2,Consumer,Philadelphia,Pennsylvania,East,234,H,20.724,1-2 Miles,Pedro,Sai,20.724,-13.816,4
+C-Con-149587,1/31/2017,2/4/2017,4,Consumer,Minneapolis,Minnesota,Central,235,L,34.9376,2-5 Miles,Shaun,She,32.96,16.1504,6
+E-Con-169397,12/24/2017,12/26/2017,2,Consumer,Dublin,Ohio,East,236,H,20.7648,2-5 Miles,Marie,Suarez,19.776,-13.8432,6
+W-Con-145583,10/13/2018,10/15/2018,2,Consumer,Roseville,California,West,237,L,4.1808,2-5 Miles,Derrick,Torres,4.02,1.9698,9
+W-Hom-140963,6/10/2019,6/15/2019,5,Home Office,Los Angeles,California,West,218,L,285.5592,2-5 Miles,Heidi,Sanchez,279.96,17.4975,14
+E-Con-169194,6/20/2018,6/21/2018,1,Consumer,Dover,Delaware,East,219,L,45.45,5-10 Miles,Pedro,Sai,45,4.95,12
+E-Con-111682,6/17/2018,6/20/2018,3,Consumer,Troy,New York,East,212,H,31.2,1-2 Miles,Shaun,She,30,3.3,12
+W-Con-121755,1/16/2018,1/17/2018,1,Consumer,Los Angeles,California,West,213,L,91.4757,5-10 Miles,Marie,Suarez,90.57,11.7741,7
+C-Cor-166191,12/5/2016,12/12/2016,7,Corporate,Decatur,Illinois,Central,214,H,408.744,5-10 Miles,Derrick,Torres,408.744,76.6395,9
+S-Hom-123750,4/15/2018,4/16/2018,1,Home Office,Gastonia,North Carolina,South,215,L,429.1812,5-10 Miles,Angel,Cooper,408.744,76.6395,13
+S-Hom-123750,4/15/2018,4/18/2018,3,Home Office,Gastonia,North Carolina,South,216,L,318.2364,0-1 Miles,Marie,Suarez,291.96,54.7425,9
+W-Con-134677,10/6/2016,10/10/2016,4,Consumer,San Diego,California,West,217,H,9.1809,2-5 Miles,Derrick,Torres,9.09,1.9089,15
+S-Con-150574,12/19/2016,12/23/2016,4,Consumer,Jacksonville,Florida,South,220,H,5.2932,5-10 Miles,Heidi,Sanchez,4.812,-3.6892,6
+W-Hom-158834,3/13/2018,3/18/2018,5,Home Office,Scottsdale,Arizona,West,221,L,211.31136,0-1 Miles,Pedro,Sai,203.184,15.2388,13
+C-Con-139892,9/8/2016,9/11/2016,3,Consumer,San Antonio,Texas,Central,222,H,155.49408,5-10 Miles,Shaun,She,143.976,8.9985,11
+S-Cor-149734,9/3/2017,9/4/2017,1,Corporate,Durham,North Carolina,South,314,L,209.02336,5-10 Miles,Marie,Suarez,200.984,62.8075,3
+C-Cor-100853,9/14/2016,9/20/2016,6,Corporate,Chicago,Illinois,Central,315,H,56.11936,1-2 Miles,Marie,Suarez,52.448,-131.12,15
+C-Con-139892,9/8/2016,9/13/2016,5,Consumer,San Antonio,Texas,Central,316,H,177.98,5-10 Miles,Derrick,Torres,177.98,-453.849,13
+C-Con-139892,9/8/2016,9/13/2016,5,Technical,San Antonio,Texas,North,316,H,177.98,5-10 Miles,Derrick,Torres,177.98,-453.849,4
+C-Con-139893,9/8/2016,9/13/2016,1,Technical,San Antonio,Texass,North,1316,H,177.98,5-10 Miles,Derrick,Torres,177.98,-453.849,12
